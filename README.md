@@ -22,7 +22,7 @@ Building a custom STM32 Bluepill board in Altium Designer gave me hands-on exper
 - **Find footprints:** Searched websites for footprints and 3D models.
 - **Linked schematic and PCB:** Synchronizing schematic and PCB kept design changes consistent.
 - **Changed design rules:** Customized clearances and trace widths for reliability.
-- **Manual routing:** Routed signals by hand for practice.
+
 
 ## Helpful Resources
 
