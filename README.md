@@ -13,8 +13,8 @@ Building a custom STM32 Bluepill board in Altium Designer gave me hands-on exper
 - **Altium Designer** – PCB design software
 - **DigiKey, snapEDA** – Websites for finding parts and datasheets
 - **YouTube Tutorials:** 
-  - EsteemPCB Academy [STM32 Controller design with Altium 20](https://www.youtube.com/playlist?list=PLhzgb9TEt7AWgrpgB9wkK_Lh85a2T4qQd) 
-- **Altium Designer Documentation:** [Official Documentation](https://www.altium.com/documentation/altium-designer)
+
+
 
 ## My Workflow
 
@@ -26,6 +26,7 @@ Building a custom STM32 Bluepill board in Altium Designer gave me hands-on exper
 
 ## Helpful Resources
 
+- **Altium Designer Documentation:** [Official Documentation](https://www.altium.com/documentation/altium-designer)
 - [TM32F103C8T6 MCU BASED BLUEPILL PCB LAYOUT DESIGN](https://www.youtube.com/watch?v=GTy83EWZJik) – STM32 tutorial on Proteus
 - [STM32 Controller design with Altium 20](https://www.youtube.com/playlist?list=PLhzgb9TEt7AWgrpgB9wkK_Lh85a2T4qQd)
 
